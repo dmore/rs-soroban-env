@@ -45,7 +45,7 @@ soroban-test-wasms = { package = "soroban-test-wasms", path = "../soroban-test-w
 soroban-synth-wasm = { package = "soroban-synth-wasm", path = "../soroban-synth-wasm" }
 soroban-bench-utils = { package = "soroban-bench-utils", path = "../soroban-bench-utils" }
 bytes-lit = "0.0.5"
-textplots = "0.8.0"
+textplots = "0.8.4"
 wasmprinter = "0.2.41"
 expect-test = "1.4.0"
 more-asserts = "0.3.1"
